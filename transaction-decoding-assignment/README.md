@@ -36,3 +36,9 @@ The **Bitcoin Transaction Decoder** is a Python-based tool designed to parse and
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/bitcoin-transaction-decoder.git
+2. Navigate to the project directory:
+
+   cd bitcoin-transaction-decoder
+3. Run the decoder script:
+
+   python decoder.py
